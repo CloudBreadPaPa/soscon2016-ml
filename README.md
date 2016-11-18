@@ -5,6 +5,7 @@
 - Session 정보 : http://www.soscon.net/session.do
 - Short URL : http://aka.ms/soscon2016-ml
 - Github URL : https://github.com/CloudBreadPaPa/soscon2016-ml  
+
 사용되는 이미지 등은 디에스이트레이드 이성희 박사님, 강희재 소장님의 허락 하에 게시합니다.  
 
 ### Iris 데모 데이터
@@ -14,7 +15,7 @@ Iris 데모 데이터는 붓꽃 Lebel 데이터로 일반적인 분석 시나리
 Iris 데이터 link : data 폴더 참조  
 
 ### Iris 모델 구축 데모
-Iris 데이터에 대해 Multi-class 예측 모델 구축
+Iris 데이터에 대해 Multi-class 예측 모델 구축  
 Azure ML Iris 모델 : https://gallery.cortanaintelligence.com/Experiment/d-party-bot-Iris-prediction-1  
 
 
@@ -23,7 +24,7 @@ Azure ML Iris 모델 : https://gallery.cortanaintelligence.com/Experiment/d-part
 https://aka.ms/dpartybot  
 
 ### NumPy 및 Pandas 셀프 스터디 - Jupyter 노트북
-Jupyter 에서 즉시 실행가능
+Jupyter 에서 즉시 실행가능  
 PyData : https://github.com/wesm/pydata-book  
 
 ### Clustering 알고리즘 등의 R 코드 
